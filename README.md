@@ -37,5 +37,9 @@ These datasets presents following data fields.
 |         Valor de conversão de compras      | Purchase conversion value                                |
 |                  Compras                   | Number of purchases                                      |
 
+## Dashboard
 
+<img src="/figuras/screenshot.png" width="850" title="screenshot">
 
+## Link Dashboard
+https://app.powerbi.com/groups/me/reports/e30d7cc1-23cd-4e77-a416-67f57583b20d?ctid=11e71783-c2ea-4fee-8318-7122f18d7534&pbi_source=linkShare
