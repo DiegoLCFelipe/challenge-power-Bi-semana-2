@@ -207,7 +207,7 @@
 <h3> Dashboard </h3> <hr>
 
 <p float="left">
-    <img style="width:750px" height="500"  hspace="10"  src="figuras/screenshot-semana-2.png">
+    <img style="width:550px" height="350"  hspace="10"  src="figuras/screenshot-semana-2.png">
     <img style="width:150px" height="300" vspace="-100" src="figuras/screenshot-mobile-semana-2.png">
 </p>
 
