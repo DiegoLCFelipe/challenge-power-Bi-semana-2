@@ -206,11 +206,10 @@
 </table>
 <h3> Dashboard </h3> <hr>
 
-<figure class="half" style="display:flex">
-    <img style="width:550px" height="300"  hspace="20"  src="figuras/screenshot-semana-2.png">
-    <img style="width:100px" height="250" vspace="20" src="figuras/screenshot-mobile-semana-2.png">
- 
-</figure>
+<p float="left">
+    <img style="width:750px" height="500"  hspace="10"  src="figuras/screenshot-semana-2.png">
+    <img style="width:150px" height="300" vspace="-100" src="figuras/screenshot-mobile-semana-2.png">
+</p>
 
-## Link Dashboard
-https://app.powerbi.com/groups/me/reports/e30d7cc1-23cd-4e77-a416-67f57583b20d?ctid=11e71783-c2ea-4fee-8318-7122f18d7534&pbi_source=linkShare
+<h3> Link Dashboard </h3> <hr>
+https://app.powerbi.com/view?r=eyJrIjoiOGRmMmY4MjUtMTFmNy00OGMxLTk4OWEtODk3N2E2NDZkMmJmIiwidCI6IjExZTcxNzgzLWMyZWEtNGZlZS04MzE4LTcxMjJmMThkNzUzNCJ9
